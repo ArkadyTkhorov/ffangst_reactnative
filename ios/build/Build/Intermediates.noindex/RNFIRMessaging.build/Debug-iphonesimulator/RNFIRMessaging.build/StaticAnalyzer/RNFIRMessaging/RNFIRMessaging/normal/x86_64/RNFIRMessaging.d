@@ -1,0 +1,34 @@
+dependencies: \
+  /Volumes/Work/ReactNative/IOS/IOS-master/node_modules/react-native-fcm/ios/RNFIRMessaging.m \
+  /Volumes/Work/ReactNative/IOS/IOS-master/node_modules/react-native-fcm/ios/RNFIRMessaging.h \
+  ../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FirebaseCore.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRAnalyticsConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRApp.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRConfiguration.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIRLoggerLevel.h \
+  ../../../ios/Pods/Headers/Public/FirebaseCore/FirebaseCore/FIROptions.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FirebaseMessaging.h \
+  ../../../ios/Pods/Headers/Public/FirebaseMessaging/FirebaseMessaging/FIRMessaging.h \
+  ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FirebaseInstanceID.h \
+  ../../../ios/Pods/Headers/Public/FirebaseInstanceID/FirebaseInstanceID/FIRInstanceID.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/node_modules/react-native-fcm/ios/../../../ios/Pods/Firebase/Core/Sources/module.modulemap \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Volumes/Work/ReactNative/IOS/IOS-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h
